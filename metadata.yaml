@@ -1,0 +1,34 @@
+_repo: Freedom-In-ServiceSix-Essays-on-Matters-Concerning-Britain-s-Safety-and-Good-Government_25522
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hearnshaw, F. J. C. (Fossey John Cobb)
+    alias: Hearnshaw, Fossey John Cobb
+    birthdate: 1869
+    deathdate: 1946
+    gutenberg_agent_id: '31390'
+    url: http://www.gutenberg.org/2009/agents/31390
+description: ''
+gutenberg_issued: '2008-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25522'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'UA'
+- !lcsh 'Great Britain -- Defenses'
+- !lcsh 'Great Britain -- Politics and government'
+- !lcsh 'Draft'
+tableOfContents: The ancient defence of England -- Compulsory service and liberty
+  -- The voluntary principle -- Passive resistance -- Christianity and war -- The
+  state and its rivals.
+title: 'Freedom In Service
+
+  Six Essays on Matters Concerning Britain''s Safety and Good Government'
+url: http://www.gutenberg.org/ebooks/25522
